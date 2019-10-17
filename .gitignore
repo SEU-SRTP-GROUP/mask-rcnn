@@ -23,6 +23,11 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+datasets/*.png
+datasets/*.jpg
+datasets/balloon/
+*.h5
+
 MANIFEST
 
 # PyInstaller
